@@ -38,6 +38,7 @@ const styles = StyleSheet.create({
     alignItems: "center",
     justifyContent: "center",
     backgroundColor: '#0074E4',
+    marginTop: 15,
   },
   primaryButtonText:{
     fontSize: 20,

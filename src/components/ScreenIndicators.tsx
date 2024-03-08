@@ -25,7 +25,7 @@ export const ScreenIndicators = ({
             width: 8,
             height: 8,
             borderRadius: 8,
-            backgroundColor: index === activeIndex ? "grey" : "white",
+            backgroundColor: index === activeIndex ? "white" : "grey",
           }}
           key={index}
         />
